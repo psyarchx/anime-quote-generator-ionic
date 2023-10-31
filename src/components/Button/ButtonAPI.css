@@ -1,15 +1,15 @@
 /* ButtonComponent.css */
 .big-blue-button {
-    background-color: #0074e4; /* Blue color */
-    color: #fff; /* White text */
-    font-size: 24px; /* Adjust the font size as needed */
-    padding: 16px 32px; /* Adjust padding for button size */
+    background-color: #0074e4;
+    color: #fff;
+    font-size: 24px;
+    padding: 16px 32px;
     border: none;
-    border-radius: 8px; /* Rounded corners */
+    border-radius: 8px;
     display: block;
-    margin: 0 auto; /* Center the button horizontally */
-    width: 60%; /* Occupy 60% of the screen width */
-    text-align: center; /* Center text within the button */
+    margin: 0 auto;
+    width: 60%;
+    text-align: center;
     cursor: pointer;
   }
   
